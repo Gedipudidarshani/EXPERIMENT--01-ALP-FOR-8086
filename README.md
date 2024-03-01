@@ -1,10 +1,6 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name :
-Roll no 
-Date of experiment :
-
-
-
+### Name :Gedipudi Darshani
+### Register Number:212223230062
 
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
@@ -78,11 +74,19 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 ## Programs for arithmetic  operations
 
 ## Addition  of 8 bit ALP 
-
+###
+"""
+mov AL,77h
+mov BL,99h
+ADD AL,BL
+HLT
+"""
+###
 
 
 ## Output  
- 
+ ![image](https://github.com/Gedipudidarshani/EXPERIMENT--01-ALP-FOR-8086/assets/139340574/bbb38314-cb38-46a1-993d-c681ea911578)
+
 ## Subtraction   of 8 bit numbers  ALP 
  
 ## Output  
