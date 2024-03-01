@@ -84,7 +84,7 @@ HLT<BR>
 
 
 ## Output  
- ![image](https://github.com/Gedipudidarshani/EXPERIMENT--01-ALP-FOR-8086/assets/139340574/bbb38314-cb38-46a1-993d-c681ea911578)
+ ![image](https://github.com/Gedipudidarshani/EXPERIMENT--01-ALP-FOR-8086/assets/139340574/bc949b7a-98f5-4650-a16e-32314d799c05)
 
 ## Subtraction   of 8 bit numbers  ALP 
 """<br>
@@ -94,7 +94,7 @@ sub AL,BL<BR>
 HLT<BR>
 """
 ## Output
-![image](https://github.com/Gedipudidarshani/EXPERIMENT--01-ALP-FOR-8086/assets/139340574/83b2a129-d8d5-400a-b587-4645447978b8)
+![image](https://github.com/Gedipudidarshani/EXPERIMENT--01-ALP-FOR-8086/assets/139340574/1602f1a7-5e3d-45eb-9bf1-e4c387b95209)
 
 ## Multiplication alp 
 """<br>
@@ -105,8 +105,7 @@ HLT<BR>
 """<br>
 
  ## Output  
-![image](https://github.com/Gedipudidarshani/EXPERIMENT--01-ALP-FOR-8086/assets/139340574/0387f35b-93d0-4446-900c-bb5e9f16df4e)
-
+![image](https://github.com/Gedipudidarshani/EXPERIMENT--01-ALP-FOR-8086/assets/139340574/57a865ac-87a3-4adf-a705-87cd97361d0a)
 
 ## Division alp 
 """<br>
@@ -116,7 +115,7 @@ DIV AL<BR>
 HLT<BR>
 """<br>
  ## Output 
- ![image](https://github.com/Gedipudidarshani/EXPERIMENT--01-ALP-FOR-8086/assets/139340574/5746f987-3181-4bf0-b8db-7bdf31086345)
+ ![image](https://github.com/Gedipudidarshani/EXPERIMENT--01-ALP-FOR-8086/assets/139340574/e18af10f-e104-434a-bb49-8cd2403b16f8)
 
 ## Result :
 Thus, A Program Is Develope To Write And Execute ALP On Fundamental Arithmetic And Logical Operations.
